@@ -1,7 +1,7 @@
 {
   "name": "com.ayato.gamefoundation",
   "displayName": "Game Foundation",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A personal Unity game development foundation package for runtime systems, editor tools, workflow utilities, and reusable game development helpers.",
   "unity": "6000.0",
   "keywords": [
