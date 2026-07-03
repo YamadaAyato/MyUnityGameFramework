@@ -414,6 +414,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ReadOnlyTest
   _readOnlyInt: 42
   _color: {r: 0, g: 1, b: 0.15787458, a: 1}
+  _sceneName: 
+  _isDebug: 0
 --- !u!4 &711137402
 Transform:
   m_ObjectHideFlags: 0
