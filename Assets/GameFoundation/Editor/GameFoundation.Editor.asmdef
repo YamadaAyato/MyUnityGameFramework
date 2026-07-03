@@ -1,0 +1,16 @@
+{
+    "name": "GameFoundation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:096ff47818a61e44cb7c1550054833af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
