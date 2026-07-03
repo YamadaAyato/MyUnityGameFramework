@@ -2,7 +2,7 @@ using GameFoundation.Runtime.Attributers;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameFoundation.Editor
+namespace GameFoundation.Editor.PropertyDrawers
 {
     /// <summary> ReadOnlyAttribute 用の Inspector 描画制御。 </summary>
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]

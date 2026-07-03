@@ -3,7 +3,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameFoundation.Editor
+namespace GameFoundation.Editor.Windows
 {
     /// <summary>
     ///     プロジェクト用のフォルダ構成を選択して作成する EditorWindow。

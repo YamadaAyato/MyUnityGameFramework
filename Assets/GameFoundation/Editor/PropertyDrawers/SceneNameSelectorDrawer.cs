@@ -4,7 +4,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameFoundation.Editor
+namespace GameFoundation.Editor.PropertyDrawers
 {
     /// <summary> SceneNameSelectorAttribute 用の Inspector 描画制御。 </summary>
     [CustomPropertyDrawer(typeof(SceneNameSelectorAttribute))]
