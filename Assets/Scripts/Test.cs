@@ -1,7 +1,7 @@
 using GameFoundation.Runtime.Attributers;
 using UnityEngine;
 
-public class ReadOnlyTest : MonoBehaviour
+public class Test : MonoBehaviour
 {
     [SerializeField, ReadOnly] private int _readOnlyInt = 42;
     [SerializeField] private Color _color;
